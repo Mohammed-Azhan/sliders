@@ -36,15 +36,18 @@ function App() {
         className="mySwiper"
       >
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="image1.jpg" alt="" /></SwiperSlide>
+
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
         <SwiperSlide><img src="image.png" alt="" /></SwiperSlide>
 
